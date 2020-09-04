@@ -13,7 +13,7 @@ namespace WebApplication1
     {
         public static void Main(string[] args)
         {
-            Console.WriteLine("Version test");
+            Console.WriteLine("Version 111test");
             CreateHostBuilder(args).Build().Run();
         }
 
