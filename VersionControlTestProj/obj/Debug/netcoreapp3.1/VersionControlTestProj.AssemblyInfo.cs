@@ -13,8 +13,8 @@ using System.Reflection;
 
 [assembly: System.Reflection.AssemblyCompanyAttribute("VersionControlTestProj")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
-[assembly: System.Reflection.AssemblyFileVersionAttribute("420.69.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("420.69.0")]
+[assembly: System.Reflection.AssemblyFileVersionAttribute("420.69.1.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("420.69.1-alpha.0.1")]
 [assembly: System.Reflection.AssemblyProductAttribute("VersionControlTestProj")]
 [assembly: System.Reflection.AssemblyTitleAttribute("VersionControlTestProj")]
 [assembly: System.Reflection.AssemblyVersionAttribute("420.0.0.0")]

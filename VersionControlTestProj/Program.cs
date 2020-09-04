@@ -6,7 +6,7 @@ namespace VersionControlTestProj
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("HeaaalTESTlo World!");
+            Console.WriteLine("Increment version 2");
         }
     }
 }
