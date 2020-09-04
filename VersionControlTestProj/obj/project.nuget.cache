@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "2f4MT9ZVQEzOLUG3Cn4K4MRurrlkdObK+iEyduJeFEzrxOtLzcKi0YE3ABgvMtLgWLVX5Nj5v/H1ghK49Vy/Ig==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\User\\source\\repos\\VersionControlTestProj\\VersionControlTestProj\\VersionControlTestProj.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\minver\\2.3.0\\minver.2.3.0.nupkg.sha512"
+  ],
+  "logs": []
+}

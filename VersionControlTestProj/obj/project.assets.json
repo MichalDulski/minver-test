@@ -1,0 +1,110 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "MinVer/2.3.0": {
+        "type": "package",
+        "build": {
+          "build/MinVer.targets": {}
+        },
+        "buildMultiTargeting": {
+          "buildMultiTargeting/MinVer.targets": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MinVer/2.3.0": {
+      "sha512": "Y9rs9cVfwQTX8ayU7B7akXyOOtE5yTLQ3hjHO+8DF6XXdVPMPP9Yed9n3nM3/uk6JGSV+6nvJxMQDbqNJ9V8JQ==",
+      "type": "package",
+      "path": "minver/2.3.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "build/MinVer.targets",
+        "buildMultiTargeting/MinVer.targets",
+        "minver.2.3.0.nupkg.sha512",
+        "minver.nuspec",
+        "minver.png",
+        "minver/McMaster.Extensions.CommandLineUtils.dll",
+        "minver/MinVer.Lib.dll",
+        "minver/MinVer.Lib.pdb",
+        "minver/MinVer.deps.json",
+        "minver/MinVer.dll",
+        "minver/MinVer.pdb",
+        "minver/MinVer.runtimeconfig.json"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.1": [
+      "MinVer >= 2.3.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\User\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\User\\source\\repos\\VersionControlTestProj\\VersionControlTestProj\\VersionControlTestProj.csproj",
+      "projectName": "VersionControlTestProj",
+      "projectPath": "C:\\Users\\User\\source\\repos\\VersionControlTestProj\\VersionControlTestProj\\VersionControlTestProj.csproj",
+      "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\User\\source\\repos\\VersionControlTestProj\\VersionControlTestProj\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.1"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "noWarn": [
+          "NU5105"
+        ],
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.1": {
+        "dependencies": {
+          "MinVer": {
+            "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+            "suppressParent": "All",
+            "target": "Package",
+            "version": "[2.3.0, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
