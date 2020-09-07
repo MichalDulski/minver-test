@@ -2,7 +2,7 @@
 
   <PropertyGroup>
     <TargetFramework>netcoreapp3.1</TargetFramework>
-	  <MinVerTagPrefix>web</MinVerTagPrefix>
+	  <MinVerTagPrefix>web-</MinVerTagPrefix>
   </PropertyGroup>
 
   <ItemGroup>

@@ -3,7 +3,7 @@
   <PropertyGroup>
     <OutputType>Exe</OutputType>
     <TargetFramework>netcoreapp3.1</TargetFramework>
-	  <MinVerTagPrefix>console</MinVerTagPrefix>
+	  <MinVerTagPrefix>console-</MinVerTagPrefix>
   </PropertyGroup>
 
   <ItemGroup>
