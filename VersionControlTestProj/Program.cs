@@ -1,4 +1,6 @@
 ﻿using System;
+using System.Diagnostics;
+using System.Reflection;
 
 namespace VersionControlTestProj
 {
@@ -6,7 +8,12 @@ namespace VersionControlTestProj
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Increment version 2");
+            Console.WriteLine("Init");
+            Console.WriteLine("___________________");
+            Assembly assembly = Assembly.GetExecutingAssembly();
+            FileVersionInfo fileVersionInfo = FileVersionInfo.GetVersionInfo(assembly.Location);
+            string version = fileVersionInfo.FileVersion;
+            Console.WriteLine(version);
         }
     }
 }
