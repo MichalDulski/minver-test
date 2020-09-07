@@ -15,7 +15,7 @@ namespace WebApplication1
     {
         public static void Main(string[] args)
         {
-            Console.WriteLine("Init2");
+            Console.WriteLine("Init3");
             Assembly assembly = Assembly.GetExecutingAssembly();
             FileVersionInfo fileVersionInfo = FileVersionInfo.GetVersionInfo(assembly.Location);
             string version = fileVersionInfo.ProductVersion;
