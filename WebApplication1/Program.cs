@@ -21,7 +21,7 @@ namespace WebApplication1
             string version = fileVersionInfo.ProductVersion;
             Console.WriteLine(version);
             CreateHostBuilder(args).Build().Run();
-        }
+        }//TODO ASDASDASDASDAS
 
         public static IHostBuilder CreateHostBuilder(string[] args) =>
             Host.CreateDefaultBuilder(args)
