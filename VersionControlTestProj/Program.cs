@@ -12,7 +12,7 @@ namespace VersionControlTestProj
             Console.WriteLine("___________________");
             Assembly assembly = Assembly.GetExecutingAssembly();
             FileVersionInfo fileVersionInfo = FileVersionInfo.GetVersionInfo(assembly.Location);
-            string version = fileVersionInfo.FileVersion;
+            string version = fileVersionInfo.FileVersion;//TODO
             Console.WriteLine(version);
         }
     }
