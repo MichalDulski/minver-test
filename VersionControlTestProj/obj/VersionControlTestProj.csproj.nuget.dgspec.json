@@ -1,21 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\User\\source\\repos\\VersionControlTestProj\\VersionControlTestProj\\VersionControlTestProj.csproj": {}
+    "C:\\Users\\Kamil Krzyszowski\\Source\\Repos\\minver-test\\VersionControlTestProj\\VersionControlTestProj.csproj": {}
   },
   "projects": {
-    "C:\\Users\\User\\source\\repos\\VersionControlTestProj\\VersionControlTestProj\\VersionControlTestProj.csproj": {
+    "C:\\Users\\Kamil Krzyszowski\\Source\\Repos\\minver-test\\VersionControlTestProj\\VersionControlTestProj.csproj": {
       "version": "1.0.1",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\source\\repos\\VersionControlTestProj\\VersionControlTestProj\\VersionControlTestProj.csproj",
+        "projectUniqueName": "C:\\Users\\Kamil Krzyszowski\\Source\\Repos\\minver-test\\VersionControlTestProj\\VersionControlTestProj.csproj",
         "projectName": "VersionControlTestProj",
-        "projectPath": "C:\\Users\\User\\source\\repos\\VersionControlTestProj\\VersionControlTestProj\\VersionControlTestProj.csproj",
-        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\source\\repos\\VersionControlTestProj\\VersionControlTestProj\\obj\\",
+        "projectPath": "C:\\Users\\Kamil Krzyszowski\\Source\\Repos\\minver-test\\VersionControlTestProj\\VersionControlTestProj.csproj",
+        "packagesPath": "C:\\Users\\Kamil Krzyszowski\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Kamil Krzyszowski\\Source\\Repos\\minver-test\\VersionControlTestProj\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
         "configFilePaths": [
-          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\Kamil Krzyszowski\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
@@ -63,7 +67,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
         }
       }
     }

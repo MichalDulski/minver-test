@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "+xDUdLaJQLkReQEoH86HBFa4xSGSytFriR8bTX11pHLd4VekIRA1u5ko7cBZAtNTGvg1xwaFQEEn7SaThn8gPw==",
+  "dgSpecHash": "zDT2K2U9j32wo77QGTRR+topF+ivm54A6kwha7OQhnxpSFSr7Jz2QeE7P8kaZ36YrJEbkkb65kD+Jcg8Cu+qFA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\User\\source\\repos\\VersionControlTestProj\\VersionControlTestProj\\VersionControlTestProj.csproj",
+  "projectFilePath": "C:\\Users\\Kamil Krzyszowski\\Source\\Repos\\minver-test\\VersionControlTestProj\\VersionControlTestProj.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\User\\.nuget\\packages\\minver\\2.3.0\\minver.2.3.0.nupkg.sha512"
+    "C:\\Users\\Kamil Krzyszowski\\.nuget\\packages\\minver\\2.3.0\\minver.2.3.0.nupkg.sha512"
   ],
   "logs": []
 }

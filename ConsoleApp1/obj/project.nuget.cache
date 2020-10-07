@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "WdI7KCGeqjr62ruwJwPaTPgN4r7sCMQ27zgDKR3/CYJrFuaUGWx5AyF3Wr6JpWBeh5jV7HHdriL5WL0ZyzSUKw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Kamil Krzyszowski\\Source\\Repos\\minver-test\\ConsoleApp1\\ConsoleApp1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Kamil Krzyszowski\\.nuget\\packages\\minver\\2.3.1\\minver.2.3.1.nupkg.sha512"
+  ],
+  "logs": []
+}
