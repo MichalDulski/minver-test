@@ -6,7 +6,7 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v3.1": {
-      "ConsoleApp1/1.0.0-alpha.0.25": {
+      "ConsoleApp1/1.1.0-alpha.0.10": {
         "dependencies": {
           "MinVer": "2.3.1"
         },
@@ -18,7 +18,7 @@
     }
   },
   "libraries": {
-    "ConsoleApp1/1.0.0-alpha.0.25": {
+    "ConsoleApp1/1.1.0-alpha.0.10": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
