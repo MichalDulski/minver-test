@@ -10,4 +10,3 @@ C:\Users\Kamil Krzyszowski\Source\Repos\minver-test\ConsoleApp3\obj\Debug\netcor
 C:\Users\Kamil Krzyszowski\Source\Repos\minver-test\ConsoleApp3\obj\Debug\netcoreapp3.1\ConsoleApp3.dll
 C:\Users\Kamil Krzyszowski\Source\Repos\minver-test\ConsoleApp3\obj\Debug\netcoreapp3.1\ConsoleApp3.pdb
 C:\Users\Kamil Krzyszowski\Source\Repos\minver-test\ConsoleApp3\obj\Debug\netcoreapp3.1\ConsoleApp3.genruntimeconfig.cache
-C:\Users\Kamil Krzyszowski\Source\Repos\minver-test\ConsoleApp3\obj\Debug\netcoreapp3.1\ConsoleApp3.csprojAssemblyReference.cache
