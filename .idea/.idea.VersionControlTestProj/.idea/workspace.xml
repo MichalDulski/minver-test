@@ -4,6 +4,9 @@
     <projectFile>WebApplication1/WebApplication1.csproj</projectFile>
     <projectFile>VersionControlTestProj/VersionControlTestProj.csproj</projectFile>
     <projectFile>WebApplication_blazor/WebApplication_blazor.csproj</projectFile>
+    <projectFile>ConsoleApp1/ConsoleApp1.csproj</projectFile>
+    <projectFile>ConsoleApp2/ConsoleApp2.csproj</projectFile>
+    <projectFile>ConsoleApp3/ConsoleApp3.csproj</projectFile>
   </component>
   <component name="AutoImportSettings">
     <option name="autoReloadType" value="SELECTIVE" />
@@ -25,16 +28,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7c91875d-7604-47c6-aed7-ff87ad0bf7fb" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.VersionControlTestProj/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.VersionControlTestProj/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/VersionControlTestProj/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/VersionControlTestProj/Program.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/VersionControlTestProj/VersionControlTestProj.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/VersionControlTestProj/VersionControlTestProj.csproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/VersionControlTestProj/obj/Debug/netcoreapp3.1/VersionControlTestProj.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/VersionControlTestProj/obj/Debug/netcoreapp3.1/VersionControlTestProj.AssemblyInfo.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/VersionControlTestProj/obj/Debug/netcoreapp3.1/VersionControlTestProj.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/VersionControlTestProj/obj/Debug/netcoreapp3.1/VersionControlTestProj.AssemblyInfoInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/VersionControlTestProj/obj/Debug/netcoreapp3.1/VersionControlTestProj.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/VersionControlTestProj/obj/Debug/netcoreapp3.1/VersionControlTestProj.csprojAssemblyReference.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/VersionControlTestProj/obj/VersionControlTestProj.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/VersionControlTestProj/obj/VersionControlTestProj.csproj.nuget.dgspec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/VersionControlTestProj/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/VersionControlTestProj/obj/project.assets.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/VersionControlTestProj/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/VersionControlTestProj/obj/project.nuget.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebApplication_blazor/WebApplication_blazor.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/WebApplication_blazor/WebApplication_blazor.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConsoleApp1/ConsoleApp1.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleApp1/ConsoleApp1.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConsoleApp2/ConsoleApp2.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleApp2/ConsoleApp2.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConsoleApp3/ConsoleApp3.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleApp3/ConsoleApp3.csproj" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,9 +46,8 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/WebApplication_blazor/obj/Debug/netstandard2.1/.NETStandard,Version=v2.1.AssemblyAttributes.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="mock://C:/Users/User/source/repos/VersionControlTestProj/VersionControlTestProj/obj/Debug/netcoreapp3.1/VersionControlTestProj.AssemblyInfo.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/VersionControlTestProj/obj/Debug/netcoreapp3.1/.NETCoreApp,Version=v3.1.AssemblyAttributes.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ConsoleApp3/obj/Debug/netcoreapp3.1/.NETCoreApp,Version=v3.1.AssemblyAttributes.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="mock://C:/Users/User/source/repos/VersionControlTestProj/VersionControlTestProj/Program.cs" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
@@ -62,6 +57,9 @@
         <option value="$PROJECT_DIR$/VersionControlTestProj/Program.cs" />
         <option value="$PROJECT_DIR$/VersionControlTestProj/VersionControlTestProj.csproj" />
         <option value="$PROJECT_DIR$/WebApplication_blazor/WebApplication_blazor.csproj" />
+        <option value="$PROJECT_DIR$/ConsoleApp1/Program.cs" />
+        <option value="$PROJECT_DIR$/ConsoleApp2/Program.cs" />
+        <option value="$PROJECT_DIR$/ConsoleApp3/Program.cs" />
       </list>
     </option>
   </component>
@@ -87,6 +85,42 @@
       <option name="USE_MONO" value="0" />
       <option name="RUNTIME_ARGUMENTS" value="" />
       <option name="PROJECT_PATH" value="$PROJECT_DIR$/ConsoleApp1/ConsoleApp1.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="DotNetCore" />
+      <option name="PROJECT_TFM" value="" />
+      <method v="2">
+        <option name="Build" />
+      </method>
+    </configuration>
+    <configuration name="ConsoleApp2" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/ConsoleApp2/ConsoleApp2.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="DotNetCore" />
+      <option name="PROJECT_TFM" value="" />
+      <method v="2">
+        <option name="Build" />
+      </method>
+    </configuration>
+    <configuration name="ConsoleApp3" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/ConsoleApp3/ConsoleApp3.csproj" />
       <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
       <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
       <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
@@ -185,7 +219,7 @@
       <updated>1601969673357</updated>
       <workItem from="1601969679298" duration="873000" />
       <workItem from="1601970711137" duration="1204000" />
-      <workItem from="1602055888229" duration="661000" />
+      <workItem from="1602055888229" duration="1049000" />
     </task>
     <task id="LOCAL-00001" summary="c">
       <created>1602056005935</created>
@@ -194,7 +228,28 @@
       <option name="project" value="LOCAL" />
       <updated>1602056005935</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="clean">
+      <created>1602056716864</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1602056716864</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Added projects">
+      <created>1602056896037</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1602056896037</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Added projects">
+      <created>1602056902904</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1602056902904</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -229,25 +284,27 @@
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
     <MESSAGE value="c" />
-    <option name="LAST_COMMIT_MESSAGE" value="c" />
+    <MESSAGE value="clean" />
+    <MESSAGE value="Added projects" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added projects" />
   </component>
   <component name="WindowStateProjectService">
     <state x="2472" y="221" key="#Plugins" timestamp="1601970551841">
       <screen x="1920" y="0" width="1920" height="1160" />
     </state>
     <state x="2472" y="221" key="#Plugins/0.0.1920.1160/1920.0.1920.1160@1920.0.1920.1160" timestamp="1601970551841" />
-    <state x="2472" y="312" key="Rider.ProjectTemplateDialog.Size" timestamp="1601970192073">
+    <state x="2472" y="312" key="Rider.ProjectTemplateDialog.Size" timestamp="1602056802221">
       <screen x="1920" y="0" width="1920" height="1160" />
     </state>
-    <state x="2472" y="312" key="Rider.ProjectTemplateDialog.Size/0.0.1920.1160/1920.0.1920.1160@1920.0.1920.1160" timestamp="1601970192073" />
+    <state x="2472" y="312" key="Rider.ProjectTemplateDialog.Size/0.0.1920.1160/1920.0.1920.1160@1920.0.1920.1160" timestamp="1602056802221" />
     <state x="2381" y="225" key="SettingsEditor" timestamp="1601970368416">
       <screen x="1920" y="0" width="1920" height="1160" />
     </state>
     <state x="2381" y="225" key="SettingsEditor/0.0.1920.1160/1920.0.1920.1160@1920.0.1920.1160" timestamp="1601970368416" />
-    <state x="2472" y="309" key="Vcs.Push.Dialog.v2" timestamp="1601970017317">
+    <state x="2472" y="309" key="Vcs.Push.Dialog.v2" timestamp="1602056729537">
       <screen x="1920" y="0" width="1920" height="1160" />
     </state>
-    <state x="2472" y="309" key="Vcs.Push.Dialog.v2/0.0.1920.1160/1920.0.1920.1160@1920.0.1920.1160" timestamp="1601970017317" />
+    <state x="2472" y="309" key="Vcs.Push.Dialog.v2/0.0.1920.1160/1920.0.1920.1160@1920.0.1920.1160" timestamp="1602056729537" />
     <state x="2543" y="255" width="672" height="678" key="search.everywhere.popup" timestamp="1602056188179">
       <screen x="1920" y="0" width="1920" height="1160" />
     </state>
