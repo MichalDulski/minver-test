@@ -4,6 +4,9 @@
         <OutputType>Exe</OutputType>
         <TargetFramework>netcoreapp3.1</TargetFramework>
         <MinVerTagPrefix>cons1-</MinVerTagPrefix>
+		<MinVerMinimumMajorMinor>1.0</MinVerMinimumMajorMinor>
+		<MinVerVerbosity>detailed</MinVerVerbosity>
+		<MinVerPreRelease>alpha.0.34</MinVerPreRelease>
     </PropertyGroup>
 
     <ItemGroup>
