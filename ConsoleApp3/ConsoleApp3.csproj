@@ -3,6 +3,7 @@
     <PropertyGroup>
         <OutputType>Exe</OutputType>
         <TargetFramework>netcoreapp3.1</TargetFramework>
+		<MinVerTagPrefix>cons1-</MinVerTagPrefix>
     </PropertyGroup>
 
     <ItemGroup>
