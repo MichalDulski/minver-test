@@ -25,33 +25,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7c91875d-7604-47c6-aed7-ff87ad0bf7fb" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.vs/VersionControlTestProj/DesignTimeBuild/.dtbcache.v2" beforeDir="false" afterPath="$PROJECT_DIR$/.vs/VersionControlTestProj/DesignTimeBuild/.dtbcache.v2" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.vs/VersionControlTestProj/v16/.suo" beforeDir="false" afterPath="$PROJECT_DIR$/.vs/VersionControlTestProj/v16/.suo" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/VersionControlTestProj.sln" beforeDir="false" afterPath="$PROJECT_DIR$/VersionControlTestProj.sln" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.VersionControlTestProj/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.VersionControlTestProj/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/VersionControlTestProj/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/VersionControlTestProj/Program.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/VersionControlTestProj/VersionControlTestProj.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/VersionControlTestProj/VersionControlTestProj.csproj" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/VersionControlTestProj/obj/Debug/netcoreapp3.1/VersionControlTestProj.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/VersionControlTestProj/obj/Debug/netcoreapp3.1/VersionControlTestProj.AssemblyInfo.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/VersionControlTestProj/obj/Debug/netcoreapp3.1/VersionControlTestProj.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/VersionControlTestProj/obj/Debug/netcoreapp3.1/VersionControlTestProj.AssemblyInfoInputs.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/VersionControlTestProj/obj/Debug/netcoreapp3.1/VersionControlTestProj.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/VersionControlTestProj/obj/Debug/netcoreapp3.1/VersionControlTestProj.csprojAssemblyReference.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/VersionControlTestProj/obj/VersionControlTestProj.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/VersionControlTestProj/obj/VersionControlTestProj.csproj.nuget.dgspec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/VersionControlTestProj/obj/VersionControlTestProj.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/VersionControlTestProj/obj/VersionControlTestProj.csproj.nuget.g.props" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/VersionControlTestProj/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/VersionControlTestProj/obj/project.assets.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/VersionControlTestProj/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/VersionControlTestProj/obj/project.nuget.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebApplication1/Startup.cs" beforeDir="false" afterPath="$PROJECT_DIR$/WebApplication1/Startup.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebApplication1/WebApplication1.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/WebApplication1/WebApplication1.csproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebApplication1/bin/Debug/netcoreapp3.1/WebApplication1.dll" beforeDir="false" afterPath="$PROJECT_DIR$/WebApplication1/bin/Debug/netcoreapp3.1/WebApplication1.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebApplication1/bin/Debug/netcoreapp3.1/WebApplication1.exe" beforeDir="false" afterPath="$PROJECT_DIR$/WebApplication1/bin/Debug/netcoreapp3.1/WebApplication1.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebApplication1/bin/Debug/netcoreapp3.1/WebApplication1.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/WebApplication1/bin/Debug/netcoreapp3.1/WebApplication1.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebApplication1/obj/Debug/netcoreapp3.1/WebApplication1.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/WebApplication1/obj/Debug/netcoreapp3.1/WebApplication1.AssemblyInfo.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebApplication1/obj/Debug/netcoreapp3.1/WebApplication1.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/WebApplication1/obj/Debug/netcoreapp3.1/WebApplication1.AssemblyInfoInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebApplication1/obj/Debug/netcoreapp3.1/WebApplication1.RazorTargetAssemblyInfo.cache" beforeDir="false" afterPath="$PROJECT_DIR$/WebApplication1/obj/Debug/netcoreapp3.1/WebApplication1.RazorTargetAssemblyInfo.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebApplication1/obj/Debug/netcoreapp3.1/WebApplication1.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/WebApplication1/obj/Debug/netcoreapp3.1/WebApplication1.csprojAssemblyReference.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebApplication1/obj/Debug/netcoreapp3.1/WebApplication1.dll" beforeDir="false" afterPath="$PROJECT_DIR$/WebApplication1/obj/Debug/netcoreapp3.1/WebApplication1.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebApplication1/obj/Debug/netcoreapp3.1/WebApplication1.exe" beforeDir="false" afterPath="$PROJECT_DIR$/WebApplication1/obj/Debug/netcoreapp3.1/WebApplication1.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebApplication1/obj/Debug/netcoreapp3.1/WebApplication1.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/WebApplication1/obj/Debug/netcoreapp3.1/WebApplication1.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebApplication1/obj/WebApplication1.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/WebApplication1/obj/WebApplication1.csproj.nuget.dgspec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebApplication1/obj/WebApplication1.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/WebApplication1/obj/WebApplication1.csproj.nuget.g.props" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebApplication1/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/WebApplication1/obj/project.assets.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebApplication1/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/WebApplication1/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebApplication_blazor/WebApplication_blazor.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/WebApplication_blazor/WebApplication_blazor.csproj" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,12 +51,16 @@
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/WebApplication_blazor/obj/Debug/netstandard2.1/.NETStandard,Version=v2.1.AssemblyAttributes.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock://C:/Users/User/source/repos/VersionControlTestProj/VersionControlTestProj/obj/Debug/netcoreapp3.1/VersionControlTestProj.AssemblyInfo.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/VersionControlTestProj/obj/Debug/netcoreapp3.1/.NETCoreApp,Version=v3.1.AssemblyAttributes.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock://C:/Users/User/source/repos/VersionControlTestProj/VersionControlTestProj/Program.cs" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/WebApplication1/WebApplication1.csproj" />
+        <option value="$PROJECT_DIR$/VersionControlTestProj/Program.cs" />
+        <option value="$PROJECT_DIR$/VersionControlTestProj/VersionControlTestProj.csproj" />
         <option value="$PROJECT_DIR$/WebApplication_blazor/WebApplication_blazor.csproj" />
       </list>
     </option>
@@ -86,6 +73,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="MTCustomThemeConfigurable" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
@@ -179,7 +167,16 @@
       <updated>1601969673357</updated>
       <workItem from="1601969679298" duration="873000" />
       <workItem from="1601970711137" duration="1204000" />
+      <workItem from="1602055888229" duration="661000" />
     </task>
+    <task id="LOCAL-00001" summary="c">
+      <created>1602056005935</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1602056005935</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -213,6 +210,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+    <MESSAGE value="c" />
+    <option name="LAST_COMMIT_MESSAGE" value="c" />
   </component>
   <component name="WindowStateProjectService">
     <state x="2472" y="221" key="#Plugins" timestamp="1601970551841">
@@ -231,9 +230,9 @@
       <screen x="1920" y="0" width="1920" height="1160" />
     </state>
     <state x="2472" y="309" key="Vcs.Push.Dialog.v2/0.0.1920.1160/1920.0.1920.1160@1920.0.1920.1160" timestamp="1601970017317" />
-    <state x="2543" y="255" width="672" height="678" key="search.everywhere.popup" timestamp="1601970718162">
+    <state x="2543" y="255" width="672" height="678" key="search.everywhere.popup" timestamp="1602056188179">
       <screen x="1920" y="0" width="1920" height="1160" />
     </state>
-    <state x="2543" y="255" width="672" height="678" key="search.everywhere.popup/0.0.1920.1160/1920.0.1920.1160@1920.0.1920.1160" timestamp="1601970718162" />
+    <state x="2543" y="255" width="672" height="678" key="search.everywhere.popup/0.0.1920.1160/1920.0.1920.1160@1920.0.1920.1160" timestamp="1602056188179" />
   </component>
 </project>

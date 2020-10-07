@@ -3,24 +3,12 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30413.136
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VersionControlTestProj", "VersionControlTestProj\VersionControlTestProj.csproj", "{4FC0701C-9DA2-474A-B921-0BAC55C6DD59}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApplication_blazor", "WebApplication_blazor\WebApplication_blazor.csproj", "{7B2B98CC-E977-4691-B97E-9064E6FC761F}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{4FC0701C-9DA2-474A-B921-0BAC55C6DD59}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{4FC0701C-9DA2-474A-B921-0BAC55C6DD59}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{4FC0701C-9DA2-474A-B921-0BAC55C6DD59}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{4FC0701C-9DA2-474A-B921-0BAC55C6DD59}.Release|Any CPU.Build.0 = Release|Any CPU
-		{7B2B98CC-E977-4691-B97E-9064E6FC761F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{7B2B98CC-E977-4691-B97E-9064E6FC761F}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{7B2B98CC-E977-4691-B97E-9064E6FC761F}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{7B2B98CC-E977-4691-B97E-9064E6FC761F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
