@@ -5,6 +5,7 @@
         <TargetFramework>netcoreapp3.1</TargetFramework>
 		<MinVerTagPrefix>cons1-</MinVerTagPrefix>
 		<MinVerMinimumMajorMinor>1.0</MinVerMinimumMajorMinor>
+		<MinVerVerbosity>detailed</MinVerVerbosity>
     </PropertyGroup>
 
     <ItemGroup>
