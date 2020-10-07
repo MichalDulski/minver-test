@@ -6,7 +6,7 @@
         <MinVerTagPrefix>cons1-</MinVerTagPrefix>
 		<MinVerMinimumMajorMinor>1.0</MinVerMinimumMajorMinor>
 		<MinVerAutoIncrement>patch</MinVerAutoIncrement>
-		<MinVerVerbosity>detailed</MinVerVerbosity>
+		<MinVerVerbosity>normal</MinVerVerbosity>
     </PropertyGroup>
 
     <ItemGroup>
