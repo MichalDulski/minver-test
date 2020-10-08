@@ -1,11 +1,11 @@
-<Project Sdk="Microsoft.NET.Sdk">
+﻿<Project Sdk="Microsoft.NET.Sdk">
 
     <PropertyGroup>
         <OutputType>Exe</OutputType>
         <TargetFramework>netcoreapp3.1</TargetFramework>
         <MinVerTagPrefix>cons1-</MinVerTagPrefix>
 		<MinVerMinimumMajorMinor>1.0</MinVerMinimumMajorMinor>
-		<MinVerVerbosity>detailed</MinVerVerbosity>
+		<MinVerVerbosity>normal</MinVerVerbosity>
 		<MinVerPreRelease>alpha.0.34</MinVerPreRelease>
     </PropertyGroup>
 

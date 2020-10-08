@@ -3,8 +3,9 @@
     <PropertyGroup>
         <OutputType>Exe</OutputType>
         <TargetFramework>netcoreapp3.1</TargetFramework>
-		<MinVerTagPrefix>cons1-</MinVerTagPrefix>
+		<MinVerTagPrefix>cons3-</MinVerTagPrefix>
 		<MinVerMinimumMajorMinor>1.0</MinVerMinimumMajorMinor>
+		<MinVerVerbosity>normal</MinVerVerbosity>
     </PropertyGroup>
 
     <ItemGroup>
