@@ -1,18 +1,19 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk">
 
-    <PropertyGroup>
-        <OutputType>Exe</OutputType>
-        <TargetFramework>netcoreapp3.1</TargetFramework>
-        <MinVerTagPrefix>cons1-</MinVerTagPrefix>
-		<MinVerMinimumMajorMinor>1.0</MinVerMinimumMajorMinor>
-		<MinVerVerbosity>normal</MinVerVerbosity>
-    </PropertyGroup>
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <MinVerTagPrefix>cons1-</MinVerTagPrefix>
+    <MinVerMinimumMajorMinor>1.0</MinVerMinimumMajorMinor>
+    <MinVerVerbosity>normal</MinVerVerbosity>
+    <MinVerDefaultPreReleasePhase>preview</MinVerDefaultPreReleasePhase>
+  </PropertyGroup>
 
-    <ItemGroup>
-      <PackageReference Include="MinVer" Version="2.3.1">
-        <PrivateAssets>all</PrivateAssets>
-        <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
-      </PackageReference>
-    </ItemGroup>
+  <ItemGroup>
+    <PackageReference Include="MinVer" Version="2.3.1">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+  </ItemGroup>
 
 </Project>
