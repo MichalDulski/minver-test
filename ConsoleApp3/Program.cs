@@ -6,7 +6,7 @@ namespace ConsoleApp3
 	{
 		static void Main(string[] args)
 		{
-			Console.WriteLine("Hello World!"); // C3 H0.3
+			Console.WriteLine("Hello World!"); // C3 H0.4 TB2
 		}
 	}
 }
